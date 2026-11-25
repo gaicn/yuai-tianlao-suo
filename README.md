@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35400883/README.md)
 # 御AI天牢锁（YUAI Tianlao Lock）
 
 **把文件夹锁成加密保险柜。防木马、防黑客、防 AI 直访文件。**
@@ -15,7 +14,11 @@
 
 ## 下载与安装
 
-1. 打开本仓库 [Releases](../../releases)，下载最新的 `御AI天牢锁-安装程序.exe`
+**直接下载最新版**：[御AI天牢锁 v4.0.7 安装包（43.8 MB）](https://github.com/gaicn/yuai-tianlao-suo/releases/download/v4.0.7/AI-tianlao.exe)
+
+（也可到本仓库 [Releases](../../releases) 页查看历史版本）
+
+1. 下载上面的安装包 `AI-tianlao.exe`，双击安装
 2. 双击安装（Windows 10/11，需管理员权限写入文件关联）
 3. 首次加密前请先生成**主恢复卡**：面板 → 更多功能 → 主卡 → 生成/绑定。主卡是换机、重装、Hello 丢失时唯一的救命凭证，请**打印或抄写**，不要只留电子版
 
