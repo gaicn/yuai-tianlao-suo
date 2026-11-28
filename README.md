@@ -1,10 +1,14 @@
-# 御AI天牢锁（YUAI Tianlao Lock）
+# 御AI天牢锁（YUAI Tianlao Lock / yuai-tianlao-suo / AI天牢）
 
 **把文件夹锁成加密保险柜。防木马、防黑客、防 AI 直访文件。**
 
+官网：https://www.aitianlao.com
+
+关键词：文件夹加密 · 文件加密 · 御AI天牢锁 · AI天牢 · 密文备份 · 密文灾备 · 文件托管 · 企业文件安全 · Windows Hello · AES-256 · 离线加密 · 恢复卡
+
 任何访问都必须经过本机 Windows Hello 生物验证（刷脸 / PIN / 指纹）或主卡 12 词，否则文件打不开。没有"找管理员远程解锁"这条路——加密密钥是本机 Hello 签名与主卡口令共同派生，服务端也解不开。
 
-> 当前状态：公开测试版。桌面应用安装包见本仓库 [Releases](../../releases)。
+> 当前状态：安装版定版，公开下载。桌面应用安装包见本仓库 [Releases](../../releases)。
 
 ## 它解决什么
 
@@ -14,13 +18,13 @@
 
 ## 下载与安装
 
-**直接下载最新版**：[御AI天牢锁 v4.0.7 安装包（43.8 MB）](https://github.com/gaicn/yuai-tianlao-suo/releases/download/v4.0.7/AI-tianlao.exe)
+**下载最新版**：[御AI天牢锁 v4.0.9.41 安装版（43.81 MB）](https://github.com/gaicn/yuai-tianlao-suo/releases/latest)
 
 （也可到本仓库 [Releases](../../releases) 页查看历史版本）
 
-1. 下载上面的安装包 `AI-tianlao.exe`，双击安装
-2. 双击安装（Windows 10/11，需管理员权限写入文件关联）
-3. 首次加密前请先生成**主恢复卡**：面板 → 更多功能 → 主卡 → 生成/绑定。主卡是换机、重装、Hello 丢失时唯一的救命凭证，请**打印或抄写**，不要只留电子版
+1. 下载安装包 `御AI天牢锁-安装程序_v4.0.9.41.exe`，双击安装
+2. 按安装向导完成（Windows 10/11，需管理员权限写入文件关联）
+3. 首次加密前请先生成**主卡**：面板 → 更多功能 → 主卡 → 生成/绑定。主卡是换机、重装、Hello 丢失时唯一的救命凭证，请**打印或抄写**，不要只留电子版
 
 ## 快速上手
 
